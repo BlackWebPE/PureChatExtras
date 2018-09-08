@@ -1,0 +1,2 @@
+# PureChatExtras
+shitPlugin
